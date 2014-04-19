@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_pony/FillyDesk_a"
+	"$surfaceprop" "wood"
+	"$model" 1
+}
